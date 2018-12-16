@@ -1,0 +1,677 @@
+{
+    "paths" : [
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               },
+               {
+               "size_in_bytes" : 10274,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/PKG-INFO",
+               "sha256" : "f1de5d02409dd88ba65c7939db6df137b0b36a8ab438cab927eec3174beb3563"
+               },
+               {
+               "size_in_bytes" : 339,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/SOURCES.txt",
+               "sha256" : "a0d4a93c6a37abec3f3f9e50c11528621378d709baa35ec9702b17133f2afdc9"
+               },
+               {
+               "size_in_bytes" : 1,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/dependency_links.txt",
+               "sha256" : "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+               },
+               {
+               "size_in_bytes" : 8,
+               "path_type" : "hardlink",
+               "_path" : "lib\/python3.6\/site-packages\/wcwidth-0.1.7-py3.6.egg-info\/top_level.txt",
+               "sha256" : "2cb8d2f121625d7b8b11c0f604d7457468692967b9a291edbe7eca363f402112"
+               }
+               ],
+    "paths_version" : 1
+}

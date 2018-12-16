@@ -1,0 +1,18 @@
+PODS:
+  - Logan (1.1.1):
+    - Logan/mbedtls (= 1.1.1)
+  - Logan/mbedtls (1.1.1)
+
+DEPENDENCIES:
+  - Logan (~> 1.1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Logan
+
+SPEC CHECKSUMS:
+  Logan: bda31421517a82bf1cd168291ba9520f2288b21b
+
+PODFILE CHECKSUM: 80c05b94672380520fa46e1ef9a712255d2de274
+
+COCOAPODS: 1.5.3
